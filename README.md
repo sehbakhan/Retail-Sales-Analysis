@@ -5,19 +5,25 @@ This project involves the creation of a sales analysis dashboard using Microsoft
 
 ## Key Features
 - Total Metrics: Overview of total billed amounts, profit margins, sales amounts, and discounts.
-Revenue Analysis by Location: Visualization of revenue generated across various locations.
-Monthly Sales Trends: Line graph showcasing sales performance throughout the year.
-Customer Type Segmentation: Revenue breakdown by new vs. returning customers.
-Profit by Location: Insights into profit margins across different cities.
-Revenue by Category: Bar charts representing revenue from different product categories.
-Average Sale per Category: Calculation of average sales across multiple categories.
+
+- Revenue Analysis by Location: Visualization of revenue generated across various locations.
+
+- Monthly Sales Trends: Line graph showcasing sales performance throughout the year.
+
+- Customer Type Segmentation: Revenue breakdown by new vs. returning customers.
+
+- Profit by Location: Insights into profit margins across different cities.
+
+- Revenue by Category: Bar charts representing revenue from different product categories.
+
+- Average Sale per Category: Calculate average sales across multiple categories.
 
 ## Technologies Used
 Microsoft Excel
 Data Visualization Techniques
 
 ## Insights Gained
-This project provided a deeper understanding of how to effectively analyze sales data and create visual representations for decision-making. Key insights include identifying high-performing regions, understanding customer segmentation, and assessing category performance.
+This project provided a deeper understanding of effectively analysing sales data and creating visual representations for decision-making. Key insights include identifying high-performing regions, understanding customer segmentation, and assessing category performance.
 
 ## Getting Started
 To explore the dashboard:
