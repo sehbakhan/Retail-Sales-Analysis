@@ -4,7 +4,7 @@
 This project involves the creation of a sales analysis dashboard using Microsoft Excel. The primary goal was to analyze sales data and visualize key metrics for better business insight.
 
 ## Key Features
--- Total Metrics: Overview of total billed amounts, profit margins, sales amounts, and discounts.
+- Total Metrics: Overview of total billed amounts, profit margins, sales amounts, and discounts.
 Revenue Analysis by Location: Visualization of revenue generated across various locations.
 Monthly Sales Trends: Line graph showcasing sales performance throughout the year.
 Customer Type Segmentation: Revenue breakdown by new vs. returning customers.
